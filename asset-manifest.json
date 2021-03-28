@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tgallery/static/css/main.403554a3.chunk.css",
+    "main.js": "/tgallery/static/js/main.225c4c51.chunk.js",
+    "main.js.map": "/tgallery/static/js/main.225c4c51.chunk.js.map",
+    "runtime-main.js": "/tgallery/static/js/runtime-main.dc08e673.js",
+    "runtime-main.js.map": "/tgallery/static/js/runtime-main.dc08e673.js.map",
+    "static/js/2.8a6ed5b3.chunk.js": "/tgallery/static/js/2.8a6ed5b3.chunk.js",
+    "static/js/2.8a6ed5b3.chunk.js.map": "/tgallery/static/js/2.8a6ed5b3.chunk.js.map",
+    "static/js/3.b8a9ae66.chunk.js": "/tgallery/static/js/3.b8a9ae66.chunk.js",
+    "static/js/3.b8a9ae66.chunk.js.map": "/tgallery/static/js/3.b8a9ae66.chunk.js.map",
+    "index.html": "/tgallery/index.html",
+    "static/css/main.403554a3.chunk.css.map": "/tgallery/static/css/main.403554a3.chunk.css.map",
+    "static/js/2.8a6ed5b3.chunk.js.LICENSE.txt": "/tgallery/static/js/2.8a6ed5b3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tgallery/static/media/home-hero.b5c255cd.jpg",
+    "static/media/selfie.7898b4a3.png": "/tgallery/static/media/selfie.7898b4a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc08e673.js",
+    "static/js/2.8a6ed5b3.chunk.js",
+    "static/css/main.403554a3.chunk.css",
+    "static/js/main.225c4c51.chunk.js"
+  ]
+}
