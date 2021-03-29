@@ -14,7 +14,7 @@ const Home = () => {
             <h2>Looking for a picture?</h2>
             <h2>We've got you covered</h2>
             <p>An Online Gallery with 100.000+ images</p>
-            <Link className = "link" to = "/gallery">Browse</Link>
+            <Link className = "link" to = "/tgallery/gallery">Browse</Link>
         </div>
     </div>
         <h1 class = "section-heading">About us</h1>

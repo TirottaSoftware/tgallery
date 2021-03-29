@@ -7,7 +7,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 function App() {
@@ -16,12 +15,8 @@ function App() {
       <div>
         <Navbar />
         <Switch>
-          <Route path = "/tgallery">
-            <Home />
-          </Route>
-          <Route path = {["/tgallery/gallery", "/gallery"]}>
-            <Gallery />
-          </Route>
+          <Route path = "/tgallery" exact component={Home}/>
+          <Route path = {["/tgallery/gallery", "/gallery"]} exact component = {Gallery} />
         </Switch>
         <Footer/>
       </div>
