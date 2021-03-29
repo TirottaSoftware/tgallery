@@ -16,10 +16,10 @@ function App() {
       <div>
         <Navbar />
         <Switch>
-          <Route path = {["/", "/tgallery"]}>
+          <Route path = "/tgallery">
             <Home />
           </Route>
-          <Route path = "/gallery">
+          <Route path = {["/tgallery/gallery", "/gallery"]}>
             <Gallery />
           </Route>
         </Switch>
